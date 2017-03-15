@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="item1">2 варианта ответа</string>
+    <string name="item2">3 варианта ответа</string>
+    <string name="item3">4 варианта ответа</string>
+    <string name="item4">5 вариантов ответа</string>
+    <string name="item5">6 вариантов ответа</string>
+    <string name="Welcome">Привет, угадай по логотипу производителя автомобилей. Удачи</string>
+</resources>
